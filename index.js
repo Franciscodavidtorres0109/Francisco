@@ -50,6 +50,109 @@ console.log("mensaje")
 console.log(nombre)
 //concatenado
 console.log("la edad es "+edad+" años");
+//Operadores
+//suma
+var suma; 
+suma= 5+3;
+console.log(suma);
+let a = 10;         
+let b = 20;
+suma = a+b;
+ console.log(suma);
+//resta
+var resultado;
+resultado= a-b
+console.log(resultado)
+//multiplicacion 
+var producto;
+producto = a*b;
+console.log(producto);
+//division
+var division;
+division = a/b;
+console.log(division)
+//orden de operaciones
+var res;
+res = a*2
+console.log(res);
+res = a*2-1;
+console.log(res);
+res= a*(2-1);
+console.log(res);
+//residuo
+var residuo;
+residuo = 12/2;//0
+console.log(residuo);
+//contadores
+//incremento
+var incre = 1;
+console.log(incre);
+incre = incre + 1;
+console.log(incre);
+incre += 1;
+console.log(incre);
+incre ++;
+console.log(incre);
+
+//decremento
+var decre = 1;
+console.log(decre);
+decre = decre - 1;
+console.log(decre);
+decre -=  1;
+console.log(decre);
+decre --;
+console.log(decre);
+//operaciones aumentadas
+//son operaciones que se le realizan a una variable y el resultado se guarda en si misma
+var sumaAumento
+sumaAumento += 1;
+sumaAumento += 48;//La variable debe tener un valor antes de hacer la operacion
+console.log(sumaAumento);
+var restaAumento
+restaAumento -= 20;
+restaAumento -= 1;
+restaAumento -= 8;
+console.log(restaAumento);
+
+
+
+var cocienteAumento
+cocienteAumento -= 20;
+cocienteAumento -= 1;
+cocienteAumento -= 8;
+console.log(cocienteAumento)
+
+//potencia
+var exp;
+exp = 3**2;
+console.log(exp);
+exp = 3**3;
+console.log(exp);
+
+//cadenas o texto 
+//suma de cadenas
+var nombre = "Franco"
+var apellido ="viva España ¡Ostia!"
+var nomCompleto = nombre + " " +apellido;
+console.log(nomCompleto);
+var cadenita1 ="3";
+var cadenita2 ="5";
+var cadenatotal = cadenita1 + cadenita2;
+console.log(cadenatotal);
+//.length
+//permite conocer la longitud de una cadena o el tamaño de un vector
+//length
+console.log(nomCompleto,length);
+console.log(nombre[3]);
+//para encontrar el caracter en la proxima posicion de una cadena o un vectort, se debe buscar la longitud - 1
+
+//(.legth - 1)
+
+
+
+
+
 
 
 

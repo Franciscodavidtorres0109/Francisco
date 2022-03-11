@@ -1,3 +1,5 @@
+
+
 /*Taller 1
 Fecha 24/02/2022
 Realizado por: Francisco David Torres
@@ -11,7 +13,8 @@ console.log("el grado es" + gradoEstudiante)
 var edad = 16
 var edadEstudiante = edad
 //esta tambien es de un tipo Double debido a que almacena numeros reales
-nombre=
+nombre= "Francisco"
+
 
 
 
