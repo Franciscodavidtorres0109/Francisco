@@ -1,0 +1,11 @@
+taller 1: Nota 3.3
+    * lineas 8, 11, 14 sobran
+    * la variable grado debia ser inicializada
+    * la variable edad, se debía pedir por teclado
+    * Falta el mensaje final
+
+taller : Nota debe sustentar
+    * operacion de area del Rectangulo incorrecta
+    * punto 3, debía pedir diametro, no radio
+    * falta volumen de la esfera
+    * 
