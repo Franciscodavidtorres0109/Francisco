@@ -17,14 +17,17 @@ base = parseInt( prompt("Favor Ingresar La Base Del Rectangulo") );
 var altura
 altura = parseInt( prompt("Favor Ingresar La Altura Del Rectangulo"));
 console.log("El Perimetro es de " + 2 * (base + altura));
-console.log("El Area es de " + (base + altura));
+console.log("El Area es de " +(base * altura));
 
 
 console.log("Punto 3");
 
-var radio;
-radio = parseInt(prompt("Favor Ingresar El Radio") );
-console.log("El Area Del Circulo Es ", Math.PI * radio * radio)
+var diametro;
+var volumenEsfera
+diametro = parseInt(prompt("Favor Ingresar El Radio") );
+console.log("El Area Del Circulo Es ", Math.PI * radio ** 2);
+volumenEsfera= parseInt(prompt("por favor ingresar el volumen de la esfera"));
+console.log("el volumen de la esfera es", 4/3 * Math.PI**3 );
 
 
 console.log("Punto 4");
