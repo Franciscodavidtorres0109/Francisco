@@ -1,3 +1,6 @@
+
+ Francisco David Torres
+
 taller 1: Nota 3.3
     * lineas 8, 11, 14 sobran
     * la variable grado debia ser inicializada
@@ -9,3 +12,6 @@ taller : Nota debe sustentar
     * punto 3, debía pedir diametro, no radio
     * falta volumen de la esfera
     * 
+
+Taller 3: Nota 4.5 en el primer taller, 4.2 en el segundo
+    * Linea 26, son 10000 no 1000
