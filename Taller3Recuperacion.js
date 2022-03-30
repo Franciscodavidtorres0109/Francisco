@@ -1,5 +1,3 @@
-/*23/3/22
-Francisco David Torres
 semana 8
 */
 //Punto 1
