@@ -14,4 +14,15 @@ taller : Nota debe sustentar
     * 
 
 Taller 3: Nota 4.5 en el primer taller, 4.2 en el segundo
+<<<<<<< HEAD
     * Linea 26, son 10000 no 1000
+=======
+    * Linea 26, son 10000 no 1000
+
+Arreglo (observaciones generales del archivo): Nota 5
+    * .pop() no requiere que le indiquen el valor del elemento a eliminar, ya que ese métood SIEMPRE elimina el ÚLTIMO elemento del arreglo. Lo mismo sucede con .shift()
+
+*************************** segundo periodo
+
+Enlace examen: https://acortar.link/a0gxi0
+>>>>>>> 4c55d850fa39716b9f858b3aba998d6e8d96dd3e
