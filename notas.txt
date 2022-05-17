@@ -14,9 +14,6 @@ taller : Nota debe sustentar
     * 
 
 Taller 3: Nota 4.5 en el primer taller, 4.2 en el segundo
-<<<<<<< HEAD
-    * Linea 26, son 10000 no 1000
-=======
     * Linea 26, son 10000 no 1000
 
 Arreglo (observaciones generales del archivo): Nota 5
@@ -25,4 +22,12 @@ Arreglo (observaciones generales del archivo): Nota 5
 *************************** segundo periodo
 
 Enlace examen: https://acortar.link/a0gxi0
->>>>>>> 4c55d850fa39716b9f858b3aba998d6e8d96dd3e
+
+Taller condicionales: Nota 3.7
+    * linea 31 hace falta una condicion
+    * linea 43, condicion incorrecta
+    * linea 45, falta un =
+    * linea 58, sobra esa variable
+    * punto 10, linea 68, la variable se llama numeros
+    * Debía realizar la division y mostrar el resultado.
+    * Faltan puntos 11 y 12
